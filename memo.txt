@@ -1,2 +1,2 @@
-switch main
+switch maiwe
 ss
