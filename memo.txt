@@ -1,21 +1,2 @@
-PS C:\Users\jun02\Documents> cd GitPractice
-PS C:\Users\jun02\Documents\GitPractice> notepad memo.txt
-PS C:\Users\jun02\Documents\GitPractice> git init
-Initialized empty Git repository in C:/Users/jun02/Documents/GitPractice/.git/
-PS C:\Users\jun02\Documents\GitPractice> git add memo.txt
-PS C:\Users\jun02\Documents\GitPractice> git commit -m "첫 번째 커밋: memo.txt 생성"
-[master (root-commit) 71cfe70] 첫 번째 커밋: memo.txt 생성
- 1 file changed, 0 insertions(+), 0 deletions(-)
- create mode 100644 memo.txt
-PS C:\Users\jun02\Documents\GitPractice> git remote add origin https://github.com/hyeongjunkim020/practice.git
-PS C:\Users\jun02\Documents\GitPractice> git branch -M main
-PS C:\Users\jun02\Documents\GitPractice> git push -u origin main
-Enumerating objects: 3, done.
-Counting objects: 100% (3/3), done.
-Writing objects: 100% (3/3), 248 bytes | 248.00 KiB/s, done.
-Total 3 (delta 0), reused 0 (delta 0), pack-reused 0 (from 0)
-To https://github.com/hyeongjunkim020/practice.git
- * [new branch]      main -> main
-branch 'main' set up to track 'origin/main'.
-PS C:\Users\jun02\Documents\GitPractice> git add memo.txt
-PS C:\Users\jun02\Documents\GitPractice> git push -u origin main
+ㅇㅇ
+ss
